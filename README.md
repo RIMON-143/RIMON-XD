@@ -1,4 +1,5 @@
 # RIMON-XD
+# RIMON AHMED 💚💚
 # INSTALLING 
 
 pkg install python
